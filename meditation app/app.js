@@ -61,7 +61,7 @@ const checkPlaying = song => {
     song.pause();
     video.pause();
     play.src = "./svg/play.svg";
-    hbg= 
+    
   }
 };
 
